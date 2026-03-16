@@ -1,42 +1,52 @@
-![QA Lead | AI Native Testing & Quality Engineering](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![QA Lead | AI Native Testing & Quality Engineering](https://camo.githubusercontent.com/2427161fc217647d883934cd8091f8926f2eff84be59d79732d1aae740026e3c/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)
 
-![Profile views](https://komarev.com/ghpvc/?username=vishalchincholi1&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://camo.githubusercontent.com/5fa337426b62d6ead3618b47feb09c05b202ad322d990d62258d054baa6d0b0c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d76697368616c6368696e63686f6c6931266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        QA Lead | AI Native Testing & Quality Engineering
-      </h1>
-    </summary>
-  </ul>
-</div>
+QA Lead | AI Native Testing & Quality Engineering
+=================================================
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/vishal-chincholi-a0a0242a3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/vishalchincholi1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+### **Connect with me:**
 
- **<h3 align="left">QA Lead and Modern Quality Engineering Leader passionate about AI-Native Testing. I bridge development and operations through intelligent testing strategies, leveraging LLMs, Playwright, and Python to build next-gen test automation. My work focuses on anti-hallucination frameworks for AI test generation, smart prompt engineering for QA, and building robust automation pipelines.</h3>**
+[Twitter](https://twitter.com/Sushil__SM) · [LinkedIn](https://www.linkedin.com/in/vishal-chincholi-a0a0242a3) · [GitHub](https://github.com/vishalchincholi1)
 
-**<h3 align="left">Rapid Fire</h3>**
+### **QA Lead and Modern Quality Engineering Leader passionate about AI-Native Testing. I bridge development and operations through intelligent testing strategies, leveraging LLMs, Playwright, and Python to build next-gen test automation. My work focuses on anti-hallucination frameworks for AI test generation, smart prompt engineering for QA, and building robust automation pipelines.**
+
+### **Rapid Fire**
 
 - 💼 I'm currently working on: **Building AI-Native test automation frameworks with Playwright, Playwrite TS, and LLM-powered test generation**
 - 🌱 I'm currently learning: **AI agents for QA automation, MCP (Model Context Protocol), and cloud-agnostic test architectures**
 - 💬 Ask me about: **AI-Native Testing, Playwright Automation, API Testing, JMeter Load Testing, and Anti-Hallucination LLM frameworks for QA**
 - ⚡ Fun fact: **Created AI agents that generate IEEE 829 compliant test plans with zero hallucinations**
 
- **<h3 align="left">Skills</h3>**
+### **Skills**
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="28" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="28" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="28" alt="Vitest" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="28" alt="GitLab" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="Spring" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="28" alt="Cypress" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="28" alt="Playwright" style="margin-right: 4px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-line.svg" height="28" alt="Jenkins" style="margin-right: 4px"></div>
+![JavaScript](https://camo.githubusercontent.com/c1587b83f02e490ccb26f35217e6cf96ff7eef2c744416ce3b68a498cc3343de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631433f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
+![React](https://camo.githubusercontent.com/965d1d21cb9b2d557c47dd9c30eb66afeab2346a231ad3e45500f649dc32eff2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f6c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+![TypeScript](https://camo.githubusercontent.com/d2b19c56bf530067483d8d2756fac7800e0aef54ef4360460d778c23ccc3db2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
+![Node.js](https://camo.githubusercontent.com/b643c0db6a56b18a13d9620244a648b75a9d0a3c7f4f2cf3115dd474d664c9ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3843433834423f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![Tailwind CSS](https://camo.githubusercontent.com/1c24fd0c1bedd0701cc182d1001c10917c5708d5726a07ba7a25869e27ce5f7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3338423241433f6c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465)
+![Prisma](https://camo.githubusercontent.com/d40f1442f28aa4d9dc385828b8ffbbb54a427e2a6f4474f8f4165de5168cdd7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3244333734383f6c6f676f3d707269736d61266c6f676f436f6c6f723d7768697465)
+![GSAP](https://camo.githubusercontent.com/d6a3290f90e18137b55b856129e16425fe0d3edb073e5262a8ea5cac22bf4791/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f475341502d3030443038343f6c6f676f3d67736170266c6f676f436f6c6f723d7768697465)
+![Express](https://camo.githubusercontent.com/0b63d7c93454dec92ad25defd92a8bad94a5e8cedda9aee3660e94b119506300/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f6c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
+![MongoDB](https://camo.githubusercontent.com/87bf6d9e503c11964a0e5b6a48fbe9c81cf130c215ed0d5004a2fe79d9d1e111/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f6c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
+![PostgreSQL](https://camo.githubusercontent.com/3287ba8a547db5455c2d6858945dcebc2802cc963658ccc3f09897f8fd175850/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f6c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465)
+![MySQL](https://camo.githubusercontent.com/a67eefb4f779347a39d79a31b13fa2f2e9e8a7d8a0948956ca15546eb37478a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+![Vitest](https://camo.githubusercontent.com/2f52761cad66391590f16efcc16985059bf0a45fc2512a62ccc6defb019deae8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f7669746573742f7669746573742d6f726967696e616c2e737667)
+![GitLab](https://camo.githubusercontent.com/bddd9336058959a33b7e852e8a2b6fce7957d08406e7fd394d3eea0e35b3a3b7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746c61622f6769746c61622d6f726967696e616c2e737667)
+![Python](https://camo.githubusercontent.com/066eb580e6a825850f05512b56811f3879dac7184e5169de6a23c2a7e70c9d2a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667)
+![Java](https://camo.githubusercontent.com/8667471e598c22f3c6be84943e9789d9fdc7f34697c633e232c831b8301d337c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667)
+![Spring](https://camo.githubusercontent.com/b8f622cfc3d1a4c70084651f75dcb7e98c012313011273b886e10bff03ad191f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f737072696e672f737072696e672d6f726967696e616c2e737667)
+![MySQL](https://camo.githubusercontent.com/eb004cb648d3c21c3855a309f35b18f7e383133592d9a501c2d9ed82a9182b62/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667)
+![Cypress](https://camo.githubusercontent.com/9a2a1a9688c51ad3fd3f6cf8b30553d8163edc4cb7d074b6cc184390c65cebd7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f63797072657373696f2f63797072657373696f2d6f726967696e616c2e737667)
+![Playwright](https://camo.githubusercontent.com/89d684205fde00873a9a515325a11977b73675191e988f686f1357b7d72a5497/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f706c61797772696768742f706c61797772696768742d6f726967696e616c2e737667)
+![Jenkins](https://camo.githubusercontent.com/9f4c0836dc813ec4a8dc1c091a7d811d3357304aac6b7f25d87355cb4ac32aa1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a656e6b696e732f6a656e6b696e732d6c696e652e737667)
 
- **<h3 align="left">GitHub Stats</h3>**
+### **GitHub Stats**
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vishalchincholi1&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=vishalchincholi1&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
+![GitHub stats Card](https://camo.githubusercontent.com/4621ef6719b6f734079457f68a8a280c782ba21fc74228c0ba8e465ed23e4746/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d76697368616c6368696e63686f6c6931267468656d653d726561637426686964655f7469746c653d66616c736526686964655f72616e6b3d66616c73652673686f775f69636f6e733d66616c736526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565266c696e655f6865696768743d3233)
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalchincholi1&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalchincholi1&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
+![GitHub streak Card](https://camo.githubusercontent.com/d75c2314ccd72517604d47f84b9f10bec8422902f4d427002ecb12439811efa1/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d76697368616c6368696e63686f6c6931267468656d653d726561637426686964655f626f726465723d66616c736526646174655f666f726d61743d4d2b6a2535422532432b59253544266d6f64653d6461696c7926686964655f746f74616c5f636f6e747269627574696f6e733d66616c736526686964655f63757272656e745f73747265616b3d66616c736526686964655f6c6f6e676573745f73747265616b3d66616c736526636172645f6865696768743d323030)
 
+![GitHub top-langs Card](https://camo.githubusercontent.com/adce57c0801f417ce3a16677b7d5a403cd9fc149efd8549888ced9cd62001936/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d76697368616c6368696e63686f6c6931267468656d653d726561637426686964655f7469746c653d66616c7365266c61796f75743d636f6d70616374266c616e67735f636f756e743d3626686964655f70726f67726573733d66616c736526636172645f77696474683d343030)
+
+![GitHub repo-card Card](https://camo.githubusercontent.com/22dbb44359c557f7e41588667cabb950e2d44547225dde310a89421950e9ed04/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d76697368616c6368696e63686f6c6931267265706f3d427562626c652662675f636f6c6f723d33352532433264643462662532433738344241302532433242383643352673686f775f6f776e65723d74727565267469746c655f636f6c6f723d66666626746578745f636f6c6f723d6666662669636f6e5f636f6c6f723d666666)
